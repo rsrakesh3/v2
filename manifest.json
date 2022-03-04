@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "version": "0.1.5",
-  "name": "Bar Code Reader",
+  "version": "1.0.0",
+  "name": "Barcode Scanner MV2",
   "description": "Bar code Scanner",
   "permissions": [
     "storage",
@@ -19,16 +19,16 @@
     "*://*/*"
   ],
   "icons": {
-    "16": "data/icons/16.png",
-    "19": "data/icons/19.png",
-    "32": "data/icons/32.png",
-    "38": "data/icons/38.png",
-    "48": "data/icons/48.png",
-    "64": "data/icons/64.png",
-    "128": "data/icons/128.png",
-    "192": "data/icons/192.png",
-    "256": "data/icons/256.png",
-    "512": "data/icons/512.png"
+    "16": "data/icons/barcode-scanner.png",
+    "19": "data/icons/barcode-scanner.png",
+    "32": "data/icons/barcode-scanner.png",
+    "38": "data/icons/barcode-scanner.png",
+    "48": "data/icons/barcode-scanner.png",
+    "64": "data/icons/barcode-scanner.png",
+    "128": "data/icons/barcode-scanner.png",
+    "192": "data/icons/barcode-scanner.png",
+    "256": "data/icons/barcode-scanner.png",
+    "512": "data/icons/barcode-scanner.png"
   },
   "browser_action": {}
 }
